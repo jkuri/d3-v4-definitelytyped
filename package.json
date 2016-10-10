@@ -1,13 +1,13 @@
 {
-  "name": "d3-v4-definitelytyped",
-  "version": "2.0.0",
+  "name": "d3-v4-typings",
+  "version": "0.0.0",
   "description": "Staged typescript definition files related to D3 version 4.1.x for contribution to DefinitelyTyped.",
   "scripts": {
     "test": "grunt compile"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomwanzek/d3-v4-definitelytyped.git"
+    "url": "git+https://github.com/jkuri/d3-v4-definitelytyped.git"
   },
   "keywords": [
     "D3",
@@ -16,9 +16,10 @@
   "author": "Thomas Wanzek",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomwanzek/d3-v4-definitelytyped/issues"
+    "url": "https://github.com/jkuri/d3-v4-definitelytyped/issues"
   },
-  "homepage": "https://github.com/tomwanzek/d3-v4-definitelytyped#readme",
+  "homepage": "https://github.com/jkuri/d3-v4-definitelytyped#readme",
+  "typings": "./src/d3/index.d.ts",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-ts": "^6.0.0-beta.2",
