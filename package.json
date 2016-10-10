@@ -19,7 +19,7 @@
     "url": "https://github.com/jkuri/d3-v4-definitelytyped/issues"
   },
   "homepage": "https://github.com/jkuri/d3-v4-definitelytyped#readme",
-  "typings": "./src/d3/index.d.ts",
+  "typings": "src/d3/index.d.ts",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-ts": "^6.0.0-beta.2",
