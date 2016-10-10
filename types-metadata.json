@@ -1,0 +1,19 @@
+{
+    "authors": "midknight41 <https://github.com/midknight41>",
+    "definitionFilename": "index.d.ts",
+    "libraryMajorVersion": "0",
+    "libraryMinorVersion": "0",
+    "libraryName": "d3",
+    "typingsPackageName": "d3",
+    "sourceBranch": "types-2.0",
+    "kind": "ProperModule",
+    "globals": [],
+    "declaredModules": [
+        "d3"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "3b8dd513b89b1958d0752e8bc952f6d88696e4074ab4dbcab145f4b6ef62197f"
+}
